@@ -11,7 +11,14 @@ int main() {
   cin>> a>>b;
   cout<<a<<endl;
   cout<<b<<endl;
+  cout<<a + b<<endl;
   cout<<"Hello World";
+
+  string name;
+  cin>>name;
+  cout<<name<<endl;
+  getline(cin,name);
+  
   return 0;
 }
 
