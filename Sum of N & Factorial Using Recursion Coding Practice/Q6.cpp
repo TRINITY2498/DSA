@@ -1,4 +1,4 @@
-// 
+// Factorial Sequence Generator. 
 
 #include <bits/stdc++.h>
 using namespace std;
